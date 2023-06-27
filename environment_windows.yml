@@ -1,0 +1,30 @@
+name: napari_bioimage_analysis
+channels:
+  - conda-forge
+  - apple
+  - defaults
+dependencies:
+  - napari
+  - pip
+  - pip:
+    - ipykernel 
+    - napari-simpleitk-image-processing 
+    - stardist-napari 
+    - napari-crop 
+    - napari-pystackreg 
+    - napari-filament-annotator 
+    - napari-brightness-contrast 
+    - napari-bleach-correct 
+    - cellpose-napari 
+    - napari-skimage-regionprops 
+    - napari-assistant 
+    - napari-annotator 
+    - napari-PICASSO 
+    - napari-accelerated-pixel-and-object-classification 
+    - napari-clusters-plotter 
+    - napari-feature-classifier 
+    - napari-laptrack 
+    - pingouin 
+    - napari-layer-details-display
+    - napari-filaments
+
