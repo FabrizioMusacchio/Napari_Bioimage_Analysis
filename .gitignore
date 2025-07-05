@@ -9,3 +9,7 @@ calcium_imaging_scripts_and_data/DataFrame_neural_data_event_triggered_avg.xlsx
 calcium_imaging_scripts_and_data/DataFrame_spiking_data_event_triggered_avg.xlsx
 calcium_imaging_scripts_and_data/Place_cell_evaluation.xlsx
 conda_cheat_sheet.md
+cellpose_results/
+tifs/
+recaps/
+archive/
